@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The treaty and articles of agreement between the Estates of Holland, the Prince of Orange, and magistrates of Amsterdam. With an exact narrative of the chief passages and proceedings at the besieging of the said town by the Prince of Orange; the manner of raising their batteries, and 300 piece of ordnance mounted against the Prince's army. Also the discovery of a great plot and designe aagainst [sic] the towns of Delph. Dort, Medembleck, Harlen and Hoarn. With the Prince's seizing on several Lords of Holland, and commiting them prisoners to Lovestein Castle.</title>
+            <author>United Provinces of the Netherlands. Staten Generaal.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89911</idno>
+            <idno type="STC">Wing N492</idno>
+            <idno type="STC">Thomason E608_21</idno>
+            <idno type="STC">ESTC R205923</idno>
+            <idno type="EEBO-CITATION">99865147</idno>
+            <idno type="PROQUEST">99865147</idno>
+            <idno type="VID">165703</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165703)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 93:E608[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The treaty and articles of agreement between the Estates of Holland, the Prince of Orange, and magistrates of Amsterdam. With an exact narrative of the chief passages and proceedings at the besieging of the said town by the Prince of Orange; the manner of raising their batteries, and 300 piece of ordnance mounted against the Prince's army. Also the discovery of a great plot and designe aagainst [sic] the towns of Delph. Dort, Medembleck, Harlen and Hoarn. With the Prince's seizing on several Lords of Holland, and commiting them prisoners to Lovestein Castle.</title>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Clowes, over against the lewer-pump in Grub-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug. 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  II, --  Prince of Orange, 1626-1650.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+               <term>Amsterdam (Netherlands) --  History --  Siege, 1650 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165703:1" rendition="simple:additions"/>
+            <p>THE TREATY AND ARTICLES OF AGREEMENT BETWEEN The Eſtates of <hi>Holland,</hi> the Prince of <hi>Orange,</hi> and Magiſtrates of <hi>AMSTERDAM.</hi>
+            </p>
+            <p>WITH An exact Narrative of the chief Paſſages and Proceedings at the beſieging of the ſaid Town by the Prince of <hi>Orange;</hi> the manner of raiſing their Batteries, and 300 Piece of Ord<g ref="char:EOLhyphen"/>nance mounted againſt the <hi>Prince's</hi> Army.</p>
+            <p>
+               <hi>ALSO</hi> The diſcovery of a great Plot and Deſigne a-againſt the Towns of <hi>Delph. Dort, Medembleck, Har<g ref="char:EOLhyphen"/>len</hi> and <hi>Hoarn.</hi> With the <hi>Prince's</hi> ſeizing on ſeveral Lords of <hi>Holland,</hi> and commiting them priſoners to <hi>Loveſtein</hi> Caſtle.</p>
+            <p>London, <hi>Printed by</hi> J. Clowes, <hi>over againſt the lewer-Pump in</hi> Grub-ſtreet. 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter_of_report">
+            <pb facs="tcp:165703:2"/>
+            <pb n="1" facs="tcp:165703:2"/>
+            <head>A LETTER FROM ROTTERDAM.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THe newes we have at preſent here, I ſhall impart to you. (as far as time will give leave.) About 2 or 3 months ſince, the Eſtates of <hi>Holland</hi> had ſome difference with the Prince of <hi>Orange,</hi> about caſ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er<g ref="char:EOLhyphen"/>ing or disbanding of forces, they deſiring that they might eaſe the people of their taxes, as the ot<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r Pro<g ref="char:EOLhyphen"/>vinces have (they alone paying about 60 <hi>g. per cent.</hi> whenas all the other 6 <hi>Provinces</hi> pay but the remaining 40 between them all) they complained much of their Officers, that they abuſed them by falſe Muſtering their
+<pb n="2" facs="tcp:165703:3"/>Souldiers; for if they were allowed 60 in a Compa<g ref="char:EOLhyphen"/>ny, they would not keep above 30. and the reaſon was (the Capt. ſay) for want of current payment, being forct to make uſe of men called Soliciteurs to furniſh them with Money, who deduct above 20 or 25 <hi>Per. cent.</hi> for their disburſment. Now the Eſtates of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> indeed, did not ſo much deſire to disband any Sol<g ref="char:EOLhyphen"/>diers; but that the Companies being ſo ſmall, they might disband ſome Officers, and keep up all the Soul<g ref="char:EOLhyphen"/>diers, and by caſhiering of thoſe Soliciteurs, and by managing the buſineſs well in paying the Souldiers currently themſelves, they would ſave 100000 pound <hi>Per Annum.</hi> The <hi>major</hi> Vote in the States General was, to ſide with the Prince, the one having a Brother a Soliciteur, a Couſen perhaps a Col. another friend a Capt. &amp;c. and they petitioning them and the P. of <hi>O<g ref="char:EOLhyphen"/>range</hi> continually to be kept up, and not disbanded: reſolved they would live and dy with each other, (now you muſt take notice that all the States General did not give their Votes to this, but the Major part; for 2 or 3 Provinces have ſince proteſted againſt their pro<g ref="char:EOLhyphen"/>ceedings) and then the <hi>Engliſh</hi> Cavelieriſh Col. and Capt. under his Command, with thoſe of the States General, (that had voted they ſhould not be disbanded) tickled him in the ear with many ſtrang things that they would do for him, and to curb <hi>Holland</hi> by the ſword, and to make him a Soveraign of theſe Coun<g ref="char:EOLhyphen"/>tries, and certainly to effect this, he wanted none of <hi>Charles Stuarts</hi> Councel, nor of his mother <hi>Mall</hi> nei<g ref="char:EOLhyphen"/>ther, for the <hi>Engliſh</hi> Malignants here did report tha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their deſign was a month ſince juſt as hereafter rela<g ref="char:EOLhyphen"/>ted. On the 20. <hi>June</hi> or there abouts, the Prince with his Colonels Capt. and other Officers, moſt <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi>
+               <pb n="3" facs="tcp:165703:3"/>Malignants, with ſome Commiſſioners of the E<g ref="char:EOLhyphen"/>ſtates General, went about to all the towns in <hi>Holland,</hi> where the Prince was nobly entertained as their Gen. but at <hi>Amſterdam, Delph, Dort, Medemcleck, Harlen</hi> &amp; <hi>Hoarne,</hi> they would not give them audience in their publick Common-Councels, (in their Towns) not ac<g ref="char:EOLhyphen"/>knowledging the Commiſſions they came withall, ſo they gave them no content; the Prince with the reſt returned again to the <hi>Hague,</hi> where they were all as it were mad that they could not obtain their ends; re<g ref="char:EOLhyphen"/>maining there, they ſtudyed day and night of a way how to obtain that by force, which (as they thought) could not be had with Love: So on <hi>Saturday</hi> laſt (be<g ref="char:EOLhyphen"/>ing the 30. <hi>alias</hi> 20. <hi>July</hi>) the P. of <hi>Orange</hi> ſeized on 6 Lords of <hi>Holland</hi> as they were in full Councel, <hi>viz.</hi> one of <hi>Dort,</hi> one of <hi>Delph,</hi> two of <hi>Harlen,</hi> one of <hi>Horn,</hi> two of <hi>Medembleck</hi> and thoſe two of <hi>Amſterdam</hi> eſca<g ref="char:EOLhyphen"/>ped; they were the next day all carried to a Caſtle near <hi>Gorcom</hi> called <hi>Loveſtein,</hi> being chiefly for a priſon, were none but traytors are put in. That ſame day <hi>viz.</hi> the 30. <hi>alias</hi> 20. <hi>July,</hi> the Prince gave Commiſ<g ref="char:EOLhyphen"/>ſion for his Army to march out of Gariſon to <hi>Amſter<g ref="char:EOLhyphen"/>dam;</hi> where on <hi>Saturday</hi> laſt in the morning, appear<g ref="char:EOLhyphen"/>ed 2000 horſe and 1000 foot; but being diſcovered by the <hi>Hamborough Poſt,</hi> the Lords of the Town were acquainted therewith, and command was given, the Gates ſhould be ſhut, and the Magazine being opened, about 300 pieces of Ordnance, was by the boys and labourers in the ſtreets drag'd up to the wals and Scon<g ref="char:EOLhyphen"/>ces, and Drums beat for the trained bands to be pre<g ref="char:EOLhyphen"/>ſently in Arms, which was effected: as alſo the Soul<g ref="char:EOLhyphen"/>diery that belongs to the Town, being about 5 or 600 were alſo in Arms, &amp; kept ſtrict watch both at gates &amp;
+<pb n="4" facs="tcp:165703:4"/>walls, the ſame day a Company of their Soldiers with Carpenters went out, and cut down all draw Bridges, and got men of war in great number, to lye from <hi>Texel</hi> to the River <hi>Tye,</hi> for fear of forces to come in by Sea (as was reported) from <hi>Zealand,</hi> the mean time drums beat for to liſt Soldiers in the Town, and gave 15 <hi>ſti<g ref="char:EOLhyphen"/>vers</hi> a day, and in 2 days time had above 12000 Soul<g ref="char:EOLhyphen"/>diers in pay, on the Lords day they in the Town ſet o<g ref="char:EOLhyphen"/>pen their ſluces, and drowned all the land round about, ſo that the <hi>Princes</hi> ſouldiery was forc't to keep on the bank-ſides, which were high; the mean time moſt part of all his Army came down thither both horſe &amp; Foot, and laid ſiege to it; and in 2 or 3 places began to make works againſt it. Take notice that till the Lords day noone he himſelf remained in the <hi>Hague,</hi> and knew no otherwiſe but his men were got into <hi>Amſterdam:</hi> but when he heard the contrary, he was mad and ready to tare his hair off his head, and ſeeing himſelf thus deprived of his hopes in the deſign, he (like a Lyon robbed of her whelps) did ſo take on, and immediatly in perſon went to the leaguer; where in a rage, as before mentioned, he began to raiſe works, but to no purpoſe. The mean time, this town of <hi>Rot<g ref="char:EOLhyphen"/>terdam</hi> ſtood nutral, and we expected every hour that ſome of his Souldiers would come and quarter upon us, but did not, and <hi>Dort, Delph, Leyden, Harlen</hi> and o<g ref="char:EOLhyphen"/>ther Townes ſhut their Gates, and were in Arms. On <hi>Munday</hi> and <hi>Tueſday</hi> the Eſtates of <hi>Holland</hi> (conſiſting of one or two men out of each Town) met, and re<g ref="char:EOLhyphen"/>ſolved to ſend for him home, and the States Gen. ſee<g ref="char:EOLhyphen"/>ing his deſign broke, they moſt of them fell off from him, and both ſent a Committee to him to Treat, and thoſe alſo of <hi>Amſterdam</hi> ſent to him, and on <hi>Wedneſ<g ref="char:EOLhyphen"/>day</hi> laſt they were agreed as followeth.</p>
+            <pb n="5" facs="tcp:165703:4"/>
+            <p>That the Army ſhall again march to their quarters, and the town ſhall not be moleſted; but that trading may be free, and thoſe that were the cauſers of this trouble, ſhall give an account for it afterward; which ſhall be diſ<g ref="char:EOLhyphen"/>puted at the next meeting at the HAGUE.</p>
+            <p>It is my opinion, that though the buſineſs is appeaſed for the preſent; yet ſome heads will fly for it, and the P. himſelf, if his head remains on his ſhoulders, it will be well: however they all ſay, they will take a great part of his power from him. Certainly if he had taken AMSTERDAM, he would have made himſelf Soveraign of theſe Countries, to have made ſlaves of theſe people of Holland; His intentions were to have ſeized upon the Banck there, and the ſtock of the town, which is many millions. The people in general hate this odious deſign of his, and as well Magi<g ref="char:EOLhyphen"/>ſtrates as people ſay plainly, they may thank his brother Charls for this, and had he ob<g ref="char:EOLhyphen"/>tained his deſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, he had moſt aſſuredly curb'd the Eſtates of Holland for their friendly aſsiſt<g ref="char:EOLhyphen"/>ance or correſpondency, and would have bin very able to aſſiſt his Brother; but we may ſee much of God in this buſineſs, and I hope
+<pb n="6" facs="tcp:165703:5"/>theſe Countries will make a faſter union with <hi>England</hi> then ever yet they have done. The <hi>Engliſh</hi> Malignants here, are ſad at this buſineſs, for they were in hopes, and were confidently aſſured had this deſign gone on, that their deſign alſo would be promoted by it. I have thus as near as I can, given you the relation of this bu<g ref="char:EOLhyphen"/>ſineſs; for any other particulars, I refer you to <hi>Am<g ref="char:EOLhyphen"/>ſterdam</hi> Letters, <hi>Vale.</hi>
+            </p>
+            <p>If the troubles had continued, I had ſent my wife &amp; child to <hi>London per</hi> this paſſage now a going, <hi>per</hi> whom alſo many families of our <hi>Engliſh</hi> would have gone, all things being packed up in a readineſs; but now we ſhall wait to ſee what God ſhall farther do with us. Some of your Company removed their cloth to <hi>Zealand,</hi> for it was not here without danger; For a great many Companies of <hi>Souldiers</hi> were quartered at the <hi>Hague</hi> and we did expect them or others here, and the Malignants would have been favoured, but the better party burthened.</p>
+            <p>The Lord of <hi>Dort</hi> that was taken priſoner (by name <hi>De Witt</hi>) is dead, its thought poyſoned.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
